@@ -1,0 +1,63 @@
+$date
+	Mon Sep 16 11:15:03 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module mux3_tb $end
+$var wire 1 ! Y $end
+$var reg 4 " D [3:0] $end
+$var reg 2 # S [1:0] $end
+$scope module teste $end
+$var wire 4 $ d [3:0] $end
+$var wire 1 % n_s0 $end
+$var wire 1 & n_s1 $end
+$var wire 2 ' s [1:0] $end
+$var wire 1 ! y $end
+$var wire 1 ( y1 $end
+$var wire 1 ) y2 $end
+$var wire 1 * y3 $end
+$var wire 1 + y4 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0+
+0*
+0)
+1(
+b0 '
+1&
+1%
+b101 $
+b0 #
+b101 "
+1!
+$end
+#20
+0!
+0(
+0%
+b1 #
+b1 '
+#40
+1!
+1*
+1%
+0&
+b10 #
+b10 '
+#60
+0!
+0*
+0%
+b11 #
+b11 '
+#80
